@@ -39,3 +39,9 @@ o	Understand which regions and product categories have the highest spending per 
 o	Analyze customer spending behavior across different regions.
 6.	Which products have the highest return on investment based on sales volume and price?
 o	Help optimize inventory and pricing strategies based on high-return products.
+
+
+![image](https://github.com/user-attachments/assets/d844cf17-8e6a-4185-bd61-f910d1291833)
+
+
+![image](https://github.com/user-attachments/assets/4a6b6df8-244d-42ab-b873-e13183f4d6ef)
